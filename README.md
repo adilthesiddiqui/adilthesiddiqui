@@ -1,4 +1,4 @@
-# 👋 Hi, I’m [Adil Moin Siddiqui]
+# 👋 Hi, I’m Adil Moin Siddiqui
 
 I'm a backend software engineer focused on building clean, scalable systems that solve real-world business problems. I am passionate about Python, FastAPI, and automation, with experience in designing APIs, data pipelines, and enterprise-grade tools.  
 
@@ -15,6 +15,6 @@ I'm a backend software engineer focused on building clean, scalable systems that
 **Practices:** Clean Code, TDD, CI/CD  
 
 ## 📫 Get in touch
-- 📧 [adilatif242gmail.com]
+- 📧 adilatif242gmail.com
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/adil-siddiqui-3829131b3/)
 
