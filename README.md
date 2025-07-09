@@ -15,6 +15,6 @@ I'm a backend software engineer focused on building clean, scalable systems that
 **Practices:** Clean Code, TDD, CI/CD  
 
 ## 📫 Get in touch
-- 📧 adilatif242gmail.com
+- 📧 adilatif24@gmail.com
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/adil-siddiqui-3829131b3/)
 
